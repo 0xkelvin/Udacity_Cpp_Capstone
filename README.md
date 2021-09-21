@@ -1,5 +1,6 @@
 # Udacity_Cpp_Capstone
-Demo video : https://www.youtube.com/watch?v=bziyGNgPx0o
+
+Continue Updating ....
 
 - System Architect: 
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/56182747/134177137-5c6e30a2-ccd6-463b-86aa-25b3abc8a4e8.png">

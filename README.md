@@ -32,7 +32,9 @@ make
 sudo bash setup_vcan.sh
   
 - Run : 
+ 
 cd build/bin
+ 
 ./OpenADAS
   
   

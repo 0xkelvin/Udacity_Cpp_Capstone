@@ -6,6 +6,8 @@ Continue Updating ....
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/56182747/134177137-5c6e30a2-ccd6-463b-86aa-25b3abc8a4e8.png">
 add current state, using the virtual CAN to simulate the CAN msg. Radars and Speaker are disable. 
 
+- Software stack:
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/56182747/134179887-b2258c05-8103-4008-84a0-5356dbd5212e.png">
 
 
 - Requirements:
